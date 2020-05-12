@@ -1,0 +1,2 @@
+# learnvimscriptthehardway
+Practising learnvimscriptthehardway.
