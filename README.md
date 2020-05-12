@@ -1,2 +1,9 @@
 # learnvimscriptthehardway
-Practising learnvimscriptthehardway.
+
+Practising vimscript.
+
+## Quickstart
+
+```
+:source %
+ ```
