@@ -5,5 +5,5 @@ Practising vimscript.
 ## Quickstart
 
 ```
-:source %
+:so %
  ```
